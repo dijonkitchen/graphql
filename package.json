@@ -40,7 +40,7 @@
     "class-validator": "0.14.0",
     "eslint": "8.36.0",
     "eslint-config-prettier": "8.8.0",
-    "eslint-plugin-import": "2.26.0",
+    "eslint-plugin-import": "2.27.5",
     "eslint-plugin-prettier": "4.0.0",
     "graphql": "15.8.0",
     "graphql-subscriptions": "2.0.0",
